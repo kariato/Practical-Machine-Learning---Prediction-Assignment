@@ -1,14 +1,15 @@
-title: 'Peer-graded Assignment: Practicle Machine Learning'
+---
+title: 'Peer graded Assignment Practicle Machine Learning'
 author: "Mark Davey"
 date: "May 17, 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Peer-graded Assignment: Practicle Machine Learning 
+#Peer graded Assignment: Practicle Machine Learning 
 
 ##Background
 
